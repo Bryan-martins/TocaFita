@@ -1,5 +1,5 @@
 import os
-import subprocess 
+import subprocess
 
 class TocaFita:
     def __init__(self):

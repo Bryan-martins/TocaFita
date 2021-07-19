@@ -1,4 +1,4 @@
-from Pacote.Biblioteca_TocaFita import TocaFita
+from src.Biblioteca_TocaFita import TocaFita
 
 #Comandos
 toca = TocaFita()
