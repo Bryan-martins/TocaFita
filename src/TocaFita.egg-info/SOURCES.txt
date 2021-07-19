@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/TocaFita.egg-info/PKG-INFO
+src/TocaFita.egg-info/SOURCES.txt
+src/TocaFita.egg-info/dependency_links.txt
+src/TocaFita.egg-info/top_level.txt
